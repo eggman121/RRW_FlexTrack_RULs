@@ -1,6 +1,6 @@
 [HighwayIntersectionInfo_0x0000A370]
 Piece = 16.0, 0.0, 0, 0, 0x53741005 ;ID to be moved later
-PreviewEffect = preview_fa3_rhw2_flexsc_001
+PreviewEffect = preview_fa3_rrw2_flexsc_001
 
 CellLayout = .............
 CellLayout = ...aaab......
