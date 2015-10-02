@@ -1,0 +1,2 @@
+;Additional Minicurve INRULs
+;For Setups not covered by the main MiniCurve INRULs (eggman121)
