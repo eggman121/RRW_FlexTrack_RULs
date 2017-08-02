@@ -6,10 +6,10 @@
 ;
 ;Coded and Textured by (woodb3kmaster) and (eggman121)
 ;
-;----------;FARR 1.5 Section;----------;
+;<>----------;FARR 1.5 Section;----------;
 ;
 ;
-;FARR 1.5 Straight
+;<>FARR 1.5 Straight
 ;
 ;
 1,2,0,2,0
@@ -72,7 +72,7 @@
 3,12,0x53770200,3,1
 3,20,0x53770200,1,1
 ;
-;FARR 1.5 orthogonal curve
+;<>FARR 1.5 orthogonal curve
 ;
 1,0,0,2,0
 2,2,2,0,2,0
@@ -210,7 +210,7 @@
 3,13,0x53771600,3,1
 3,20,0x53771000,3,1
 ;
-;FARR 1.5 to FARR 2 curve
+;<>FARR 1.5 to FARR 2 curve
 ;
 1,0,0,0,2
 2,1,2,?,0,0
@@ -340,7 +340,7 @@
 3,20,0x53775000,3,1
 3,21,0x53775200,3,1
 ;
-;FARR 1.5 diagonal curve
+;<>FARR 1.5 diagonal curve
 ;
 1,0,0,0,1
 2,1,2,0,0,0
@@ -454,7 +454,7 @@
 3,10,0x53772400,3,1
 3,11,0x53772500,3,1
 ;
-;FARR J2 Turnout
+;<>FARR J2 Turnout
 ;
 1,32,0,2,1
 2,1,2,0,32,0
@@ -594,8 +594,8 @@
 ;
 ;End FARR 1.5 Section
 ;
-;----------;FARR 2 Section;----------;
-;FARR 2 Stright INRUL
+;<>----------;FARR 2 Section;----------;
+;<>FARR 2 Stright INRUL
 ;
 ;(0x53750000) Piece
 ;
@@ -663,7 +663,7 @@
 2,13,?,0,0,2
 3,0,0x53750000,1,1
 ;
-;(0x53750100) Piece
+;<>(0x53750100) Piece
 ;
 1,0,?,2,0
 2,2,2,?,2,0
@@ -729,7 +729,7 @@
 2,20,0,2,?,0
 3,0,0x53750100,1,1
 ;
-;FAR-2 to Orthogonal
+;<>FAR-2 to Orthogonal
 ;
 1,2,0,0,0
 2,1,?,0,2,0
@@ -835,7 +835,7 @@
 3,12,0x53751500,3,1
 3,13,0x53751300,3,1
 ;
-;FAR-2_To_Diagonal
+;<>FAR-2_To_Diagonal
 ;
 1,0,0,0,2
 2,1,2,?,0,0
@@ -973,9 +973,9 @@
 3,20,0x53752000,3,1
 3,21,0x53752200,3,1
 ;
-;FARR 2 Turnouts
+;<>FARR 2 Turnouts
 ;
-;FARR 2 G2 Turnout
+;<>FARR 2 G2 Turnout
 ;
 1,32,0,2,1
 2,1,2,0,32,0
@@ -1089,9 +1089,9 @@
 3,7,0x5394B100,3,1
 3,21,0x5394B000,3,1
 ;
-;FAR_2_Crossings
+;<>FAR_2_Crossings
 ;
-;Orthogonal_Rail
+;<>Orthogonal_Rail
 ;
 1,0,2,2,2
 2,3,2,2,2,2
@@ -1165,7 +1165,7 @@
 3,4,0x53750100,3,1
 3,5,0x53750200,3,1
 ;
-;FAR2_x_FAR2
+;<>FAR2_x_FAR2
 ;
 1,2,2,2,0
 2,1,0,2,2,2
@@ -1215,9 +1215,9 @@
 2,7,2,2,2,0
 3,0,0x53750400,1,1
 ;
-;----------;FARR 3 Section;----------;
+;<>----------;FARR 3 Section;----------;
 ;
-;FARR 3 Straight
+;<>FARR 3 Straight
 ;
 1,2,0,2,0
 2,1,2,0,2,0
@@ -1291,7 +1291,7 @@
 3,0,0x53740100,3,1
 3,3,0x53740000,3,1
 ;
-;FARR 3 to Orthogonal 
+;<>FARR 3 to Orthogonal 
 ;
 1,0,0,2,0
 2,1,2,0,0,0
@@ -1397,7 +1397,7 @@
 3,12,0x53741500,3,1
 3,21,0x53741000,3,1
 ;
-;FARR 3 to Diagonal
+;<>FARR 3 to Diagonal
 ;
 1,2,0,2,0
 2,1,0,?,2,0
@@ -1519,7 +1519,7 @@
 3,12,0x53742600,3,1
 3,20,0x53742000,3,1
 ;
-;FARR 3 to FARR 2 Curve
+;<>FARR 3 to FARR 2 Curve
 ;
 1,2,0,0,0
 2,1,0,?,2,0
@@ -1657,9 +1657,9 @@
 3,13,0x53743400,3,1
 3,20,0x53740100,3,1
 ;
-;---------(Turnouts_Section)-----
+;<>---------(Turnouts_Section)-----
 ;
-;---------(C2_Turnout)-----------
+;<>---------(C2_Turnout)-----------
 ;
 1,2,0,2,0
 2,1,2,0,2,0
@@ -1781,7 +1781,7 @@
 3,13,0x5394A400,3,1
 3,21,0x5394A000,3,1
 ;
-;---------(C1_Turnout)-------
+;<>---------(C1_Turnout)-------
 ;
 1,2,0,2,0
 2,1,2,0,2,0
@@ -1903,7 +1903,7 @@
 3,13,0x53942400,3,1
 3,21,0x53942000,3,1
 ;
-;---------(C2_Turnout_FARR_3_Base)-------
+;<>---------(C2_Turnout_FARR_3_Base)-------
 ;
 ;Orthogonal Off FARR3 DTR
 ;
@@ -2003,7 +2003,7 @@
 3,7,0x5396A100,3,1
 3,21,0x5396A000,3,1
 ;
-;FAR_3 Crossings
+;<>FAR_3 Crossings
 ;
 ;Orthogonal Rail 1
 ;
@@ -2087,7 +2087,7 @@
 3,0,0x53740200,3,1
 3,1,0x53740300,3,1
 ;
-;Orthogonal Rail 2
+;<>Orthogonal Rail 2
 ;
 1,2,2,0,2
 2,1,2,0,2,0
@@ -2146,4 +2146,4 @@
 3,1,0x53740400,1,1
 ;
 ;
-;End Fractional Angled Railway Section
+;<>End Fractional Angled Railway Section
