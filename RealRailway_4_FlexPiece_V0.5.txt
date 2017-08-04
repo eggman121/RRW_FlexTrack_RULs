@@ -3,7 +3,7 @@
 ;(Most pieces will contain the "4" flag for curves and turnouts)
 ;(Some uncomplcated Pieces will use the current Flextrack INRULs containing the "2" flag)
 ;<----------------------->
-;<		  (Curves)
+;<		   (Curves)
 ;<----------------------->
 ;<>-------(R3_Curve)------
 ;
