@@ -9,7 +9,7 @@
 ;    by Swordmaster Jun-Nov 2013
 ;---------------------------------------------------------------
 ;	 FlexTrack Coding for the RealRailway NAM plugin
-;	 by eggman121 July-Oct 2015 V1.0, Jan-July 2016 V1.1 
+;	 by eggman121 July-Oct 2015 V1.0, Jan-July 2016 V1.1 April-Aug 2017 V1.2 
 ;---------------------------------------------------------------
 ;	 FlexTrack FARR Coding for the RealRailway NAM plugin
 ;	 by woodb3kmaster and eggman121 Jan-July 2016 V1.0 
